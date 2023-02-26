@@ -76,7 +76,7 @@ h1{
 #skollatao{
    margin-left: 250px;
 }
-@media screen and (min-width:100px) {
+@media screen and (min-width:50px) {
    body{
    text-align: center;
 
